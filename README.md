@@ -145,19 +145,4 @@ DB_HOST=localhost
 DB_PORT=5432
 
 ```
-## 🚧 To Do
-
-- Add pagination and filtering
-- Implement doctor availability and scheduling
-- Add unit tests
-
----
-
-## 📝 License
-
-MIT License
-
----
-
-> Created by [Your Name]
 
